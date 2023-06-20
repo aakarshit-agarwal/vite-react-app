@@ -1,1 +1,3 @@
-# This is a simple Vite + React app
+# Vite + React
+
+This is a simple react application.
